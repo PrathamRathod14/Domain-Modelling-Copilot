@@ -1,0 +1,23 @@
+# Python-related files
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+*.ipynb_checkpoints/
+.pytest_cache/
+
+# IDE-specific files
+.vscode/
+.idea/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Docker-related files
+*.log
+.env
+
+notes.txt
+temp.json
+user_inputs.txt

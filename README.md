@@ -31,6 +31,24 @@ Domain modeling is a crucial skill in software engineering, but traditional appr
 
 ---
 
+## System Architecture & Design
+
+### Domain Model
+<img src="docs/images/DomainModel.png" alt="Domain Model" width="600" height="400">
+
+*The domain model illustrating the core entities, relationships, and business logic of the Domain Modelling Copilot system.*
+
+### Context Diagram
+<img src="docs/images/ContextDiagram.png" alt="Context Diagram" width="600" height="400">
+
+*System context showing external entities and their interactions with the Domain Modelling Copilot.*
+
+### Activity Diagram
+<img src="docs/images/ActivityDiagram.png" alt="Activity Diagram" width="600" height="400">
+
+*Activity flow diagram depicting the complete user workflow from requirement input to domain model generation.*
+
+
 
 ## Tech Stack
 
@@ -133,7 +151,7 @@ mongod
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/DarshanScripts/domain-modelling-copilot.git
+git clone https://github.com/VasiliySeibert/domain-modelling-copilot.git
 cd domain-modelling-copilot
 ```
 
@@ -230,8 +248,16 @@ Visit: [http://localhost:5000](http://localhost:5000)
 
 ---
 
-## 👨‍💻 Author
-Developed by **Pratham Rathod**. Connect with me:
 
-- **LinkedIn**: [Pratham Rathod](https://www.linkedin.com/in/prathamrathod14/)
-- **GitHub**: [PrathamRathod14](https://www.linkedin.com/in/prathamrathod14/)
+
+## Acknowledgments
+
+This university project was developed under the supervision of Prof. Andreas Rausch as part of the Masters in Digital Technologies program. We would like to acknowledge the guidance and support provided throughout the development process.
+
+### Development Team
+- **Product Owner:** Vasiliy Seibert
+- **Developers:** 
+  - Darshan Shah - https://github.com/DarshanScripts
+  - Meet Chavda - https://github.com/meetchavda06s
+  - Mitbhai Chauhan -https://github.com/Mitchauhan0712
+  - Pratham Rathod - https://github.com/PrathamRathod14
